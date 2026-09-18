@@ -19,11 +19,7 @@ Central repository for PRD-Enterprises projects, documents, templates, spreadshe
 
 ## File conventions
 
-Use clear names with dates or version numbers where useful, for example:
-
-`Piercing_Businesses_Master_v001.xlsx`
-
-`Receipts_Master_2026-09-18.xlsx`
+Use clear names with dates or version numbers where useful.
 
 ## Status
 
